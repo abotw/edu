@@ -23,6 +23,12 @@
 -   [教务处](https://www.hfuu.edu.cn/jwc/)
 -   [招生办](https://www.hfuu.edu.cn/zs/)
 
+## Tools | 工具
+
+-   [今日校园](https://campusmart.wisedu.com/)
+-   [超星学习通](https://i.chaoxing.com/)
+-   大学搜题酱
+
 ## Staff | 教职工
 
 给我授课过的老师如下（按时间倒序）：
